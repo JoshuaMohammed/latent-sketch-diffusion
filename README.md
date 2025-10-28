@@ -105,7 +105,7 @@ An interactive React application allowing users to:
 - Generate AI-enhanced images  
 - Download and preview results  
 
-![User Interface](images/ui.png)
+![UI](https://raw.githubusercontent.com/JoshuaMohammed/latent-sketch-diffusion/main/images/ui.png)
 
 ---
 
@@ -118,7 +118,7 @@ Two variants of RLEPUN were trained for comparison:
  - RLEPUN (MSE Loss): trained under the same conditions as U-Sketch using the Mean Squared Error loss.
  - RLEPUN (Custom Loss): trained using the proposed uncertainty-weighted loss function to improve perceptual consistency and edge prediction accuracy.
 
-![Results Comparison](images/results.png)
+![Results](https://raw.githubusercontent.com/JoshuaMohammed/latent-sketch-diffusion/main/images/results.png)
 
 ---
 
@@ -127,7 +127,7 @@ Two variants of RLEPUN were trained for comparison:
 - Higher perceptual quality scores (LPIPS)  
 - Lower resource consumption during inference  
 
-![Generated Samples](images/generated_samples.png)
+![Generated Samples](https://raw.githubusercontent.com/JoshuaMohammed/latent-sketch-diffusion/main/images/generated_samples.png)
 
 ---
 
