@@ -118,6 +118,8 @@ Two variants of RLEPUN were trained for comparison:
  - RLEPUN (MSE Loss): trained under the same conditions as U-Sketch using the Mean Squared Error loss.
  - RLEPUN (Custom Loss): trained using the proposed uncertainty-weighted loss function to improve perceptual consistency and edge prediction accuracy.
 
+After testing each of the three models across ten consecutive runs, the images shown below represent the best three results from each model, selected based on perceptual quality and structural alignment.
+
 ![Results](https://raw.githubusercontent.com/JoshuaMohammed/latent-sketch-diffusion/main/images/results.png)
 
 ---
